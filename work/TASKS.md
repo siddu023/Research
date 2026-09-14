@@ -222,6 +222,199 @@ Unverified items (search budget exhausted; someone please close):
 
 (each agent responds under the matching challenge ID)
 
+**Planner — 2026-09-14 — rebuttals. Revised figures are in work/planner.md (marked "rev. Phase 2").**
+
+### X-07 — planner response: ACCEPT (re-keyed to consolidated Case C)
+- Concede: my Case B $7.5M was a placeholder, not a roll-up; the team's own lines plus the auditor's omissions (X-01/X-03/X-04, off-site, trench, signage) sum to ~$6.6M hard. I now key everything to that.
+- Consolidated Case C, ex-land, SBA-eligible TPC (rev. Phase 2): hard $6,600K + CM-agency fee 5% $330K + general conditions $165K + contingency 10% $660K + A&E $400K + env/survey/geotech $45K + permits $60K + W/S SDF $85K + Duke CIAC gross $75K + builder's risk/GL $65K + interim interest $421K + 504/bank fees $141K = **$9,047K ≈ $9.05M** (LOW $7.1M / HIGH $11.5M). Sensitivity "C+" at $9.5M if PR-01 resolves to $1.2M and X-03 to the auditor's $1.0M sitework.
+- Non-504-eligible cash (equity or 7(a) companion): pre-opening $105K + inventory $210K + operating float $90K + one ramp reserve $385K = **$790K** EXP (LOW $545K / HIGH $1,100K).
+- Equity check (13 CFR 120.910: 15% special-purpose; 20% if also <2 yrs operating):
+
+| Case | TPC | Bank 50% | CDC 35% / equity 15% | CDC 30% / equity 20% | + non-504 cash $790K → total cash 15% / 20% |
+|---|---|---|---|---|---|
+| C ex-land | $9.05M | $4,525K | $3,168K / **$1,358K** | $2,715K / **$1,810K** | $2.15M / $2.60M |
+| C+ ex-land | $9.50M | $4,750K | $3,325K / **$1,425K** | $2,850K / **$1,900K** | $2.22M / $2.69M |
+| C + land $2.0M | $11.05M | $5,525K | $3,868K / **$1,658K** | $3,315K / **$2,210K** | $2.45M / $3.00M |
+| C+ + land | $11.50M | $5,750K | $4,025K / **$1,725K** | $3,450K / **$2,300K** | $2.52M / $3.09M |
+- $5M debenture cap still does not bind (35% x $11.5M = $4.03M; even HIGH-with-land $13.5M = $4.73M net, ~$4.85M gross).
+- Annual debt service (bank 7.50%/25-yr; CDC 6.54%/25-yr, SomerCor 2026-09-10): C 15% **$659K**, C 20% $622K; C+ 15% $692K / 20% $653K; C+land 15% $805K / 20% $760K; C+ +land 15% $837K / 20% $790K. If the $790K non-504 need is funded by a 7(a) companion (prime+3% = 9.75%, 10-yr): +$124K/yr.
+- Net change vs my Phase 1 EXP: TPC +$1.55M; equity +$233K (15%) / +$310K (20%); DS +$113K/yr.
+
+### P-06 — planner response: ACCEPT (EXP 20 months; LOW 17; HIGH 26)
+- My permit date (M8-9 = 35-39 weeks) already matched the architect's 34-40 weeks; the gap was construction. Concede that Buildermuse's 14-22-week window is a standalone wash and that a three-building fuel/wash/store program with two NCDEQ hold-point inspections and a Duke transformer gate is 10-12 months from NTP (architect 4.9 row 8: 36-52 wks). Revised: NTP M9 → substantial completion M19 → commissioning/CO/open M20; debenture funds M22-23. Architect 4.9 governs permitting durations; my rows govern financing steps.
+- Slip cost accepted at $115-180K/month (auditor §5); I carry it in the risk table and size the ramp reserve on the 20-month case.
+
+### X-06 — planner response: ACCEPT (one financed contingency at 10% + one owner reserve + one ramp reserve)
+- Contingency: **10% of hard, financed inside TPC = $660K EXP** (LOW $530K / HIGH $800K) — the 13 CFR 120.882 cap used as the budget figure because the delivery model in PR-05 is a licensed CM with fixed-price subs, not a bare owner-GC.
+- Owner-held reserve outside TPC: **3% of hard = $200K** as evidenced liquidity (cash or committed LOC), LOW 2% / HIGH 5% ($400K); this is the lender's liquidity covenant, not a second contingency line.
+- Ramp reserve: one line only — my 5.10 IS the lender's interest reserve (renamed). No separate "interest reserve"; no line-level pads (architect/procurement HIGH values are ranges, not adders — lead to confirm in the consolidated table).
+- Net vs Phase 1: contingency +$230K financed; +$200K liquidity requirement.
+
+### P-02 — planner response: ACCEPT (recomputed on Case C interim $8.15M, 20-month schedule)
+- Interim loan = 90% x $9.05M = $8.15M; loan closes at permit (M9); draws over 11 months at ~50% average balance; full balance ~2.5 months until the debenture funds. Prime 6.75% + 1.00 = 7.75% EXP.
+- LOW $320K (7.25%; 10-mo draw; 1.5-mo bridge) / **EXP $421K** (7.75%; 11 mo; 2.5 mo) / HIGH $588K (8.25%; 13 mo; 4 mo). With-land cases add land carry $0 / $110K / $220K depending on how much of the $2.0M is bank-funded from M3.
+- Net vs Phase 1: +$71K EXP. Matches the auditor's ~$420K. RESOLVED-BY-EVIDENCE on structure.
+
+### P-03 — planner response: ACCEPT (add operating float; keep first-fill; re-size ramp reserve)
+- Operating float added: LOW $75K / **EXP $90K** / HIGH $100K (payroll cycle, card-settlement lag, payables, launch marketing $25-70K per auditor).
+- First fill stays 28-32K gal; rack placeholder $2.20-2.50/gal (NACS 2025 retail avg $3.11 less taxes/margin, per auditor) → $65-80K fuel; inventory line unchanged at $150K / $210K / $290K.
+- Ramp reserve re-sized on Case C: year-1 NOI ~$275K vs DS $659K → shortfall $384K → **EXP $385K** (LOW $250K = 6 months of shortfall; HIGH $550K = 9 months full P&I). Net vs Phase 1: +$110K (reserve) + $90K (float) = +$200K non-504 cash.
+
+### PR-05 / P-01 — planner response: ACCEPT (structure changes; my budget line rises)
+- G.S. 87-1(b) verified text: the owner exemption applies only where "the building is intended solely for occupancy by that person and his family, firm, or corporation after completion" with a G.S. 87-14 affidavit, and non-sole occupancy within 12 months creates a presumption against it (ncleg.net; NCLBGC 2025 Laws & Regs; Ward and Smith enforcement note). Under an EPC/OC 504 structure the owning entity is not the occupying entity, and a Tesla lease/easement occupies part of the parcel. Not a clean exemption; I withdraw any reliance on it.
+- SOP 50 10 8 (eff. 2025-06-01) verified: borrower-as-contractor only if (a) experienced in the type of construction and licensed, (b) cost ≤ unaffiliated contractor as evidenced by two bids (or lender CM-team estimate), (c) no profit; SBA calls DIY construction "generally unsatisfactory" (Partner ESI; ffcfc Construction Loan Q&A; Starfield & Smith Oct 2025). Two first-time owners fail (a) regardless of licensing.
+- Financing-safe structure I now carry: (1) applicant = RS Fuels LLC as OC (with an EPC as co-borrower if the real estate is held separately) so the 24-month history counts; (2) an NC-licensed GC engaged as **CM-agency at 5% (LOW 4% / HIGH 6%) = $330K** as the licensed contractor of record — G.S. 87-1(a) defines a general contractor to include one who "undertakes to superintend or manage" construction ≥ $40K, so a licensed CM-agent satisfies the permit (counsel to confirm the bank accepts CM-agency vs CM-at-risk); (3) fixed-price subcontracts held by the owner, bid open-book (two bids satisfy SOP (b)); (4) owner-furnished equipment packages (procurement's $2.16M: tunnel, fuel, canopy, vacs, DCFC) contracted directly with manufacturer install — this is where the saving lives ($115-230K of avoided GC markup, auditor §5), and it is not shown as a credit line; (5) general conditions carried separately at 2.5% of hard = $165K (LOW $130K / HIGH $230K).
+- CM-at-risk with GMP alternative: fee 2.5-3.95% of cost of work in published contract samples (Law Insider; Angi 2026 "3-5%") plus GMP contingency 3-5% held by the CM — total ~$450-600K + CM contingency; safer for the lender, ~$100-200K more than CM-agency. Use CM-at-risk only if two CDCs reject CM-agency in writing.
+- Fee comps: Angi 2026 CM fees 3-5%; EB3 Oct 2025 CM-agency 5-15%; HomeGuide 2026 GC O&P 21%. Net vs Phase 1: my 5.12 ($235K rep/super) becomes CM fee + GCs = $495K → **+$260K**. OPEN RISK until a CDC/bank term sheet accepts the structure (auditor's condition; agreed).
+
+### P-05 — planner response: ACCEPT (RESOLVED not bankable at $60K/mo); R2 defined; new OPEN RISK on year 2
+- RESOLVED-BY-EVIDENCE: two independent models put $60K/mo at 0.42-0.82x. Executive summary must say so.
+- R2 underwriting case (rev. Phase 2), stabilized year 3, EXP costs (store DSOE $750K; tax+insurance $135K); wash per auditor's concession (EXP = 2,500 members x $25, $1.0M revenue, 50% margin = $500K; HIGH = 3,000 x $27 = $1.30M, $648K; LOW = 1,800 x $25 = $720K at 45% = $324K):
+
+| R2 tier | Fuel+inside GP /mo | GP /yr | NOI | DSCR C 15% ($659K) | C 20% ($622K) | C+ 15% ($692K) | C+land 15% ($805K) | C+land 20% ($760K) |
+|---|---|---|---|---|---|---|---|---|
+| LOW | $90K | $1,080K | $519K | 0.79x | 0.83x | 0.75x | 0.64x | 0.68x |
+| **EXP** | **$110K** | $1,320K | **$935K** | **1.42x** | 1.50x | 1.35x | 1.16x | 1.23x |
+| HIGH | $135K | $1,620K | $1,383K | 2.10x | 2.22x | 2.00x | 1.72x | 1.82x |
+- Break-even GP for 1.25x (EXP costs/wash): C 15% **$101K/mo**; C 20% $97K; C+ 15% $104K; C+land 15% $116K; C+land 20% $111K. With a $790K 7(a) companion added to C 15% (DS $783K) EXP drops to 1.19x → fund the non-504 need with equity, or R2 must be ≥$115K/mo.
+- Evidence a lender will demand for R2 EXP: trade-area fuel volume ≥150K gal/mo at ≥$0.30 net; inside sales ≥$150-180K/mo at ~35% margin; third-party wash feasibility (SOP special-purpose new build) supporting 2,500 members in 24-36 months. OPEN RISK: no trade-area data yet.
+- New OPEN RISK (ramp): on Case C 15%, year 1 NOI ~$275K (GP at 75%, wash ~1,200 avg members at 25% margin) = 0.42x; year 2 NOI ~$650K (GP 90%, ~2,000 members at 42%) = **0.98x**; year 3 = 1.42x. SBA's minimum is 1.15x projected within two years (GoSBA 2025), so either the ramp reserve covers ~18 months of shortfall (~$400-500K) or the dealer stores' global cash flow must show ≥$150-250K/yr of free cash through year 2. This is the lender-readiness item that matters most.
+
+### X-08 — planner response: ACCEPT; fix per item
+1. Owner-GC → CM-agency (licensed, 5%) with fixed-price subs and owner-furnished equipment; two CDC term sheets before land closes (PR-05 above). Owner: planner + owners.
+2. $60K/mo pro forma → R2 with evidence list (P-05). Owner: planner.
+3. Tesla easement → 13 CFR 120.131 (verified): with SBA financing of new construction the borrower must occupy ≥60% at closing and may permanently lease up to 20% of rentable property; a Tesla pad (~5,000 sf of a ~120,000 sf site, ~4%) fits, but the lease must be subordinated to the deed of trust (SNDA) with CDC/bank consent, and its term cannot impair collateral. Budget $5-10K legal. Owner: owners' counsel.
+4. Used tunnel equipment ≤15% of package (procurement's own cap) — agreed; procurement owns.
+5. Sources-and-uses now shows a non-504 block ($790K EXP) funded by equity or a 7(a) companion (post-2026-07-04 decoupling allows both). Owner: planner.
+6. Third-party wash feasibility study: commission M2-3, $8-15K (est.; SOP special-purpose new construction). Owner: owners.
+7. 24-month revenue in the applicant entity → keep RS Fuels LLC as OC; otherwise budget the 20% path ($1,810K + $790K). Owner: owners/CPA.
+8. Brand image money → shown as a jobber loan in S&U with per-gallon amortization; its cost is 0.5-1.5 cpg off fuel margin, not a debt-service line (procurement 1.3; agreed). Owner: procurement.
+
+### X-09 — planner response: PARTIAL
+- Seller note as 504 contribution — now verified: 13 CFR 120.910 allows the contribution from "any other source except an SBA business loan program"; SOP 50 10 8 (Starfield & Smith May 2025; ffcfc Borrower's Contribution Q&A) requires borrowed contributions to show an outside source of repayment and seller financing to be on standby or subordinated to the SBA loan; if collateralized by non-project assets, repayment must be from business cash flow or other sources. So a subordinated, standby seller note on the land CAN count toward the 15/20%, but the lender will add its payments to global DSCR unless on full standby. RESOLVED-BY-EVIDENCE with the CDC to confirm standby term.
+- Raleigh Water capital facility fees for 2"/3" meters: still unretrieved (both Raleigh PDFs are image-encoded to our tools; two more attempts failed this round). OPEN; carry Charlotte's $54,296 as the placeholder with a $55K / $85K / $160K range.
+- Federal UST FR (40 CFR 280.93 $1M/occurrence, $1M aggregate for 1-100 tanks) and NC Trust Fund deductible mechanism: agree with the auditor's note; counsel/insurer to confirm. Concessions on $498/tank, tax rates, land, incentives: noted, no further action.
+
+**Architect — 2026-09-14. Revisions applied to work/architect.md (lines marked "rev. Phase 2"). Architect-owned EXP total moves from $3.60M (auditor's X-07 sum of my Phase 1 lines) to $4.11M: +$505K net. Ownership moves in X-02 send $430K of that to procurement's file, so the team roll-up rises by ~$935K of genuinely new scope (X-03, X-04, A-02, A-03, PR-04) and $0 from re-labeling.**
+
+### X-03 — architect response: ACCEPT (new line; my build-up is higher than the auditor's EXP)
+- New architect line "Sitework other than paving/SCM": LOW $335K / EXP $540K / HIGH $890K.
+- Build-up (all EB unless cited): (1) clearing + mass/fine grading, ~6,000 CY balanced regrade on 2.75 ac at $19/CY (TruTec 2026Q1, auditor's source) + clearing $2.7-11K/ac (Daniel Dean 2025) + proof-roll/fine grade = $100K / $170K / $300K (HIGH = rock/undercut); tank-pit excavation excluded (fuel installer scope, procurement). (2) On-site utilities: domestic + wash water (2 in and 3 in taps), sewer lateral with grease interceptor and oil/water separator, ~1,000 LF storm pipe and inlets, gas, telecom conduit = $120K / $190K / $300K (UST Contractors Jul 2026 "utility infrastructure $50-500K+"). (3) Site lighting, 10-14 poles with bases and branch circuits = $50K / $75K / $110K. (4) Landscape, street trees, irrigation, buffer fence, dumpster screen = $40K / $65K / $110K. (5) E&SC measures, sediment basin, construction entrance, seeding, self-inspections = $25K / $40K / $70K.
+- Why not the auditor's $400K EXP: the auditor's own components sum to $400-850K; $400K is the bottom of that sum, not its midpoint. Mine is a component build-up, not a blend. Cross-check: Maxx Builders (Oct 8, 2025) carries $4-7/sf of lot for grading + utilities + drainage + paving = $480-840K on 119,790 sf for a light-duty wash lot; adding the heavy-duty concrete premium on 36,000 sf ($5-8/sf over asphalt = $180-290K) gives $660K-$1.13M, which brackets my paving $637K + sitework $540K = $1.18M at the top. LOW ($452K + $335K = $787K) sits inside it. Curb/gutter/sidewalks stay in my paving line (not repeated here).
+
+### X-01 — architect response: ACCEPT exclusion confirmed; owner-of-record = procurement
+- Confirmed: my $/sf includes the cooler-box slab, framing, roof and electrical rough-in, kitchen hood ductwork, make-up air, and grease interceptor rough-in. It excludes cooler panels and refrigeration, reach-ins, hood/Ansul and cookline, gondolas/shelving, checkout counters, security/cameras/network, POS.
+- Carry the auditor's $250K / $350K / $500K (Buildermuse Jul 2, 2026: kitchen $80-150K, fixtures $50-80K; walk-ins quote-only) as the placeholder in procurement's file until Hussmann/True/Master-Bilt and kitchen-line quotes land. I list it in architect.md §2.9 as "carried by procurement" so no one drops it. Net to my totals: $0.
+
+### X-02 — architect response: ACCEPT ownership split; DEFEND canopy size
+- Canopy: owner-of-record = procurement (bundled with the fuel-installer bid), one line incl. steel, deck, fascia, LED, footings. Size: DEFEND 4,000-4,100 sf, not 3,500. A 2-island, 4-MPD layout with 24-28 ft between islands and 14-16 ft outer drive lanes is 60-64 ft wide x 66-70 ft long (GD Grandview: 24 ft minimum between islands; 4-dispenser canopy ~40 x 60 ft); 3,500 sf leaves the outer lanes uncovered, and uncovered fueling lanes are the first thing customers notice in rain. Combined line at 4,100 sf: $210K / $280K / $360K (my $164K/$225K/$287K structure + footings 8-10 at $8-10K each, Builders Villa Jul 14, 2025). I remove $225K from my file.
+- Vacuums: procurement carries turbines/separator/arches/piping ($95K EXP). I keep only the vacuum canopy, slab curbs and conduit drops: $35K / $55K / $80K (EB; slab paving already in my paving line). Combined ~$150K EXP as the auditor proposed. I remove $95K from my file.
+- Pay stations, gates, LPR: procurement only. I remove $110K from my file.
+- Net to my totals: -$430K (moved, not cut). Lead: mark owner-of-record on each line per the above.
+
+### X-04 — architect response: ACCEPT; architect owns the line
+- New line "Site electrical service, switchgear and site distribution": LOW $160K / EXP $240K / HIGH $350K.
+- Build-up: (1) 480/277 V 3-ph service entrance, 1,200 A main switchboard, metering = $70K / $95K / $120K (Delta Wye 2025: 1,200 A service $70-120K); (2) two dry-type step-down transformers + 208 V distribution boards (store, tunnel) = $30K / $45K / $65K (EB); (3) site duct banks and feeders to tunnel, canopy, vacuum court, site lighting and EV stubs, ~1,200 LF at $50-150/LF trenching (Delta Wye) plus conductors = $50K / $80K / $135K; (4) phased-energization provisions the planner asked for in P-note-3: spare switchboard section, separately metered DCFC service stub so the store opens on initial service = $10K / $20K / $30K.
+- Sizing logic (why 1,200 A, not procurement's 1,500-2,500 A): store ~200 kVA, tunnel ~350-400 kVA (dryer bank + pumps + central vac), canopy/STPs ~50 kVA, L2 6 x 11.5 kW = 70 kVA, lighting ~20 kVA = ~700-750 kVA = ~900-1,000 A at 480 V. The 500-750 kVA DCFC load (PR-note-6) goes on its own Duke transformer under the Make-Ready program, and the Tesla yard on Tesla's transformer. Combining all three onto one service is what drives 2,000 A+ gear and a 12-month transformer; splitting them is the design decision that protects the schedule. Electrical engineer's load letter still required. Excluded here (no double count): interior distribution from building panels inward ($/sf), forecourt dispenser/STP conduit (fuel installer, procurement), canopy LED (canopy line), tunnel equipment wiring from disconnects (procurement install).
+- Net to my totals: +$240K. Planner 5.7 keeps the Duke-side CIAC; X-05 rule applied: no credit netted.
+
+### A-01 — architect response: PARTIAL (citation corrected; EXP held at $300/sf; HIGH raised to $400/sf)
+- Citation fix: Buildermuse "Gas Station Construction Cost 2026" (Jul 2, 2026) does NOT say "$250-400/sf". It itemizes a 3,500 sf store: shell $700-950K ($200-271/sf), HVAC/plumbing $320-500K, electrical $150-250K, finishes $150-250K, restrooms $50-80K, fire $60-100K = $1.43-2.13M ($409-609/sf building complete, ex-kitchen/fixtures) and states a 15-25% South discount ($348-518/sf). Corrected in §2.1.
+- What $300/sf includes: shell, structure, roof, storefront, interior finishes, restrooms, HVAC, plumbing incl. grease interceptor rough-in, hood ductwork and make-up air, electrical from the building panel inward, fire alarm. Excludes: everything in X-01, canopy, fuel, site, signage, design fees.
+- Why EXP stays $300: Terrapin (Jun 2026) large c-store $160-320/sf and UST Contractors (Jul 2026) $150-350/sf both put a 4,000 sf box under $350; Buildermuse's HVAC/plumbing at $91-143/sf for 3,500 sf is out of line with the other two and reads as a forecourt-inclusive plumbing number. The auditor conceded $300 EXP; I accept the Buildermuse evidence at the top end only: HIGH moves from $375 to $400/sf. Store: $900K / $1.20M / $1.60M. Net EXP $0; HIGH +$100K. RESOLVED-BY-EVIDENCE at $1.2M shell + X-01 line.
+
+### A-02 — architect response: ACCEPT (new line at EXP)
+- Confirmed: $150/sf EXP does not include the conveyor trench, pits, trench drains or floor coating; only my HIGH did. Maxx Builders (Oct 8, 2025), fetched again: PEMB $110-150/sf includes "curbs and reinforced drive pads engineered for constant water exposure" but gives no separate floor-system rate; the auditor's "$18-28/sf" is not on that page (auditor: please re-cite or drop).
+- New line "Wash floor systems": LOW $75K / EXP $110K / HIGH $155K. Build-up (EB): dual-belt shallow trench 12-18 in, 2 x 120 ft with embedded steel and drains at $250-400/LF = $30-50K (chain option: 3-4 ft entry/exit pits instead, similar money per PR-note-3); trench drains 2 x 140 ft at $80-120/LF = $22-34K; sloped-slab premium and urethane/epoxy coating on ~4,800 sf at $6-10/sf = $29-48K; sumps and pit covers $5-15K. Net to my totals: +$110K.
+- PR-note-8 accepted: 100 vs 120 ft delta re-stated as shell 800 sf x $110/$150/$220 (mine) + equipment 2 x $80-120K (procurement) = $250K / $320K / $420K (was $180K / $250K / $450K).
+
+### PR-03 — architect response: ACCEPT 4 tanks / 57K gal; pit unchanged
+- Accept 20K regular, 12K premium, 15K diesel, 10K non-ethanol (or 20K split). The R2 case (~150K gal/mo, regular ~105-115K = 3,500-3,800 gpd) is served by one 20K regular with an 8,500-gal transport drop every 2-2.5 days; a second 20K regular is a delivery-frequency convenience, not a capacity need, until regular alone exceeds ~150K gal/mo. My 64K was sized to the "flagship" positioning, not to the volume the DSCR case relies on; the auditor's arbitration is right.
+- Site plan: keep the 45 x 65 ft pit envelope (PR-note-7 computes 50 x 42 ft for four 10-ft-diameter tanks; the extra length keeps room for a fifth tank or a 20K swap without moving the tanker pad). Net to my totals: $0 (tank cost is procurement's line, -$20-40K there).
+
+### A-03 — architect response: ACCEPT (two-option structure confirmed; auditor's two additions priced)
+- Surface SCM (bioretention/wet pond with nutrient features for Neuse/Jordan/Falls basins, forebay, outlet, fence, plantings) + SCM permitting, as-built certification and recorded O&M agreement: LOW $85K / EXP $155K / HIGH $250K (was $70K / $130K / $220K). Adders: as-built/O&M/permitting $15K / $25K / $30K (EB; NC engineer's certification and recorded agreement are required in both Charlotte PCSO and Raleigh UDO 9.2); nutrient treatment pushes the surface option from a plain wet pond to bioretention, already inside the raised range (Rainplan 2026 $15-40/sf).
+- Underground option: $270K / $405K / $540K (same adders). Delta underground vs surface: +$185K / +$250K / +$290K, unchanged.
+- Plan shows surface as EXP on 2.75-3.0 ac and underground as the 2.5-ac option. Net to my totals: +$25K.
+
+### P-06 — architect response: ACCEPT EXP 20 months (LOW 18 / HIGH 26); my §4.9 durations govern permitting
+- RESOLVED-BY-EVIDENCE at the auditor's proposal: EXP 20 months from site control to CO; LOW 18; HIGH 26 (rezoning excluded; +6-9 months if a conditional rezoning is required). Planner computes interest on 20 months.
+- What makes 18 achievable (each is a condition to be met, not an assumption to be carried): (1) by-right parcel with an existing turn lane and no stream buffer (removes the TIA-driven NCDOT loop and offsite work); (2) Duke Energy application filed at concept stage (month 1) with a split-service design (X-04) so the store opens on the initial 1,200 A service and the tunnel/DCFC energize on later transformers; (3) Mecklenburg Express/OnSchedule review or Raleigh SPR overlapped with the building set, cutting 4-6 weeks; (4) UST-6 filed with the building set; tank, canopy and tunnel POs released by month 6-7 (PR-note-9); (5) PEMB shells for tunnel and store; (6) CM with fixed-price subs so the NCDEQ hold-point inspections do not idle other trades. Miss any two and the schedule is 20+.
+
+### PR-04 — architect response: ACCEPT decision rule; DEFEND reserving the pad
+- Site-plan impact of host-funded vs Tesla-funded: geometry is identical (8 pull-in stalls incl. 1 ADA, 20 x 40 ft cabinet/switchgear/transformer yard, 24 ft aisle). The difference is who pays the utility transformer and switchgear and who signs the easement. Under Tesla-funded, the yard is Tesla's; under Supercharger for Business it is the owner's $940K (Electrek Apr 8, 2026) and I agree with the auditor and procurement: do not self-fund.
+- Reserve the pad: yes, at near-zero cost, because the 8 stalls are paved as ordinary parking and used as store overflow until Tesla commits; the only dedicated spend is conduit sleeves under paving from the yard location to the property line and the switchgear location, plus a yard area left as gravel/landscape: $15K / $20K / $25K (EB; consistent with the auditor's $15-25K "pad/conduit only"). Not reserving it means saw-cutting new paving and losing 8 stalls later.
+- Decision rule adopted in architect.md §6 A2: apply at LOI; if no Tesla site offer by building-permit issuance, sleeves only, no self-funded Superchargers, owned DCFC capped at 2 dual units on a separate Duke make-ready transformer. Easement/lease consent by CDC/bank goes on the planner's X-08 list. Net to my totals: +$20K.
+
+Summary of architect-owned EXP after Phase 2: store $1,200K; tunnel shell $900K; equipment-room MEP $180K; wash floors $110K; vacuum canopy/drops $55K; sign structure/dumpster $70K; paving $637K; surface SCM $155K; sitework $540K; site electrical $240K; Tesla sleeves $20K = $4,107K (LOW $3,022K / HIGH $5,762K). Moved to procurement: canopy $280K, vacuum equipment $95K, pay stations $110K, store FF&E $350K.
+
+**Procurement — Phase 2 rebuttals, 2026-09-14. Revised lines are marked "rev. Phase 2" in work/procurement.md. Three fetches used: Electrek Apr 8, 2026 (Tesla pricing, success); Buildermuse May 27, 2026 wash page re-read (success); NCCETC Jul 30, 2025 Duke article (failed, rate limit).**
+
+### PR-01 — procurement response — PARTIAL (accept the number, correct the record on the source)
+- Record: I re-fetched Buildermuse (May 27, 2026). It says verbatim "A turnkey 100-foot Sonny's package — conveyor, arches, dryers, chemical delivery, water lines, controls — runs $280K to $420K" and "every additional 10 feet of conveyor adds $80K to $120K between structure, equipment, water lines, and chemical feed." It does not say 60-80 ft; the "60-80 ft" phrase belongs to the article's $600-800K express-build total, not the package line. So the citation was accurate — but the auditor's substantive point stands on two counts: (1) the package line is a bare bill of materials with no belt, no pay stations/LPR/gates, no reclaim/RO, no install; (2) the per-10-ft increment includes "structure," so applying it to equipment alone was a mis-scoping.
+- Anchoring problem, stated honestly: one marketing page from a home-builder content site was carrying my EXP, while EB3 (Oct 29, 2025: core $500-800K + electronics/pay $150-400K + water $50-250K = $700K-$1.45M, midpoint ~$1.08M), Terrapin (Apr 2026: $1-2M+), and the architect's independent $1.1M all sit higher. Two of three agents plus the two construction-firm sources beat one content page.
+- ACCEPT for best-value (120-ft belt, ex-vacuums, installed, incl. RO/80% reclaim/softener, tunnel controller, 2 pay stations + LPR + gates, options): LOW $850K / EXP $1,100K / HIGH $1,450K (EB3 build-up range; EXP = architect's independent figure, which I adopt rather than the auditor's $1.2M because EB3's own midpoint is $1.08M). Was $900K → +$200K.
+- DEFEND cheapest-credible as a VE option only (100-ft chain, Hamilton pay stations, basic reclaim): package $350K (Buildermuse midpoint for its stated 100-ft scope) + manufacturer install $45K + reclaim/RO $60K + pay/LPR $70K + options $15K = $540K ex-vacuums (was $490K → +$50K). It is $310K below the auditor's LOW because it is a different machine (chain, 100 ft, no belt trench, Hamilton). It is not the plan's EXP.
+- What two written quotes must show (Sonny's CarWash Services Southeast, 888-995-5989; NCS/MacNeil): 120-ft belt conveyor; arches incl. wraps/mitters/high-pressure/tire shine/ceramic position; dryer bank ≥5 producers; chemical delivery; tunnel controller; 2 pay stations + LPR + gates; RO + ≥80% reclaim + softener; rigging/install/commissioning/training; ex-vacuums, ex-building, ex-trench concrete. Decision rule: both ≤ $950K → revert to $900K; $1.0-1.25M → $1.1M stands; >$1.25M → $1.45M becomes EXP.
+
+### X-01 — procurement response — ACCEPT (procurement takes ownership; architect confirms it is outside $/sf)
+Build-up, quote-only where marked:
+| Item | LOW | EXP | HIGH | Basis |
+|---|---|---|---|---|
+| Walk-in cooler/freezer, 16-20 glass doors + beer cave, remote refrigeration | $100K | $135K | $175K | No public source (auditor agrees); per-door installed $5-7K estimating basis; Hussmann/True/Master-Bilt quotes needed |
+| Kitchen line (fryers, flat-top, ovens, prep, reach-ins, hot/cold display, warmers) — hood/ANSUL/grease interceptor stay in architect MEP | $80K | $115K | $150K | Buildermuse Jul 2, 2026: kitchen $80-150K |
+| Store fixtures (gondolas, checkout, cigarette merchandiser, millwork, ice merchandiser) | $50K | $65K | $80K | Buildermuse Jul 2, 2026: fixtures $50-80K |
+| IT/security (cameras, DVR, network, back-office PC, digital menus, music) | $30K | $45K | $60K | auditor §1b; quote-only |
+| **Total store FF&E/coolers/kitchen** | **$260K** | **$360K** | **$465K** | |
+- Cheapest-credible carries $260K (12-14 doors, roller-grill/hot-case program); best-value $360K. Store POS was already in my fuel POS line ($35K), not double counted. Fountain, coffee, ATM, ice are normally vendor-placed at $0 capex under supply agreements; brand image money may fund part of fixtures — both are reductions to chase, not to book.
+
+### X-02 — procurement response — ACCEPT (owner-of-record per line; single numbers below)
+- Canopy: owner = procurement, at the architect's 4,100 sf (two-island layout with drive aisles; I drop my 3,500 sf). Build-up: structure + deck $45/sf = $185K; 8 footings × $8-10K = $70K (Builders Villa Jul 14, 2025); LED $10K; fascia/ACM $15K → LOW $232K / EXP $280K / HIGH $348K. 6-VFP at architect's 3,100 sf: $190K LOW carried in cheapest-credible. Architect deletes §2.3 from the roll-up. Was $190K → +$90K best-value; +$70K cheapest.
+- Vacuums: one combined line, owner = procurement: equipment $95K (central, 2 turbines, 10 arches) + vacuum canopy/pads $50K (architect §2.5 basis, 2,400 sf) = LOW $95K (8 individual + $40K canopy) / EXP $145K / HIGH $230K. Architect deletes §2.5 vacuum line. Was $95K → +$50K best-value; +$40K cheapest.
+- Pay stations/LPR/gates: procurement only, $70K / $110K / $160K unchanged; architect deletes §2.5 pay-station line. No $ change.
+- Net double-count removed from synthesis: $485K (architect side); net add to procurement: +$140K best-value, +$110K cheapest.
+
+### X-04 — procurement response — ACCEPT (procurement owns it as the site electrical service package; DCFC as add-alternate)
+- Load build-up (revises my PR-note-6, which was too high): store ~150 kVA, tunnel ~250-300 kVA (dryers 100 HP, pumps 60 HP, vacs 2×40 HP), canopy/dispensers ~30 kVA, DCFC 240 kW ~300 kVA, L2 6×11.5 kW ~70 kVA → ~800-850 kVA → 1,200-1,600A at 480/277V. Tesla stalls are Tesla-metered and excluded.
+- Price: main switchboard 1,600A $45-70K; service entrance/CT cabinet/meter $15-25K; distribution panels + 480→208 transformers $25-40K; feeders/trenching to store, canopy, tunnel, vac court, EV $25-60K; phased-energization sectionalizing (planner S-02) $5-15K → LOW $115K / EXP $150K / HIGH $210K. Basis: Delta Wye 2025 (auditor's source) $100-150K+ for 800-1,200A with switchgear, scaled up one frame size. Cheapest-credible (1,200A, no DCFC) $115K. Requires an EE load letter; Duke-side CIAC stays in planner 5.7 gross of credit.
+
+### PR-04 — procurement response — ACCEPT
+- Verified this round: Electrek Apr 8, 2026 — Supercharger for Business hardware $500K per 8 V4 posts, fixed nationwide; install $45-65K/post by tier; ~$940K all-in for 8; $0.10/kWh network fee; configurations 4/8/16/24. My Phase 1 "$500-800K HIGH" is withdrawn as below the published price.
+- Base case: $0 (Tesla-funded application) with the auditor's decision rule adopted verbatim: apply at LOI; if no Tesla site offer by building-permit issuance, carry pad/conduit only ($15-25K) and no self-funded Superchargers; owned DCFC capped at 2 dual units ($251K best-value, unchanged).
+- Optional host-funded adder (not in any subtotal): 4 posts $430K / $470K / $510K; 8 posts $860K / $940K / $1,020K; plus $0.10/kWh and Tesla-set service terms. OPEN RISK: neither the Electrek article nor Tesla's still-live host-a-supercharger URL (403 to all of us) confirms the funded track is still offered to new third-party sites. Lender item: any Tesla easement/lease on 504 collateral needs CDC/bank consent before signing.
+
+### PR-05 / P-01 — procurement response — ACCEPT (withdraw +3-7%)
+- G.S. 87-1 as amended by S.L. 2023-108 ("solely for occupancy by that person… after completion," G.S. 87-14 affidavit, 12-month presumption): I did not have this; it is decisive. The 504 EPC/OC lease plus any Tesla/CPO ground lease means the owner exemption cannot be relied on; counsel opinion required, and the safe assumption is that it does not apply.
+- SOP 50 10 8 (eff. Jun 1, 2025) two-bid / no-profit / licensed-and-experienced test: accepted; a start-up owner-GC fails the experience prong on its face.
+- Revised position: delivery model = NC-licensed GC/CM-at-risk or CM-agency at 4-6% with fixed-price sub contracts; net saving vs a full GC = 2-4% of hard ($145-290K on $7.2M), NOT carried as a budget line; owner captures value through owner-furnished equipment packages (tunnel, fuel, canopy, vacs ≈ $2.3M) avoiding 5-10% GC markup ($115-230K). My §4.1 text is revised accordingly.
+- Counterweight the team should not miss (auditor §3 flag, touches procurement): NC sales/use tax (~7-7.5% combined) on owner-furnished tangible equipment vs. real-property-contract treatment when a contractor furnishes it could offset $100-180K of the owner-furnished saving. OPEN; CPA to rule before the bid strategy is fixed.
+
+### PR-03 — procurement response — ACCEPT (confirm 4 tanks / 57K gal)
+- Configuration: 20K regular, 12K premium, 15K diesel, 10K non-ethanol (or a 20K split) = 57K gal; revisit only if the trade-area study shows >150K gal/mo of regular alone.
+- Price, turnkey ex-canopy ex-POS: tanks delivered $210K / $260K / $330K (Buildermuse Jul 2, 2026 per-vessel; CommTank 2026 packaged); install/piping/sumps/STPs/vapor/testing $250K / $300K / $400K (USTContractors Jul 2026 per-tank; Buildermuse "fuel infrastructure"); ATG $14K / $20K / $28K; 4 Encore 700S $64K / $88K / $120K; dispenser install/EMV $12K / $16K / $20K → **$550K / $684K / $898K** vs auditor $500K / $700K / $950K — agreed within 3% at EXP. 3-tank 44K-gal (-$85K EXP) stays only as the cheapest-credible VE option; architect's 45 × 65 ft pit stays.
+
+### X-05 — procurement response — ACCEPT ($0 credit in base)
+- Duke's Charger Prep Credit page 403'd twice; the NCCETC article fetch failed on the session rate limit. No agent has the public-DCFC tier. Rule adopted: every file carries gross cost; a separate credit line reads "$0 (Duke public-DCFC credit, $0-30K, UNVERIFIED)". Action owner: procurement requests a Duke written estimate letter at 30% civil drawings; OPEN until received.
+
+### X-09 (and other items touching procurement) — procurement response
+- X-09 concessions ($498/compartment fee; 30C dead; VW exhausted; NEVI Round 2 closed): noted, carry $0 for all three incentives. 40 CFR 280.93 FR note: agree; NC Trust Fund deductible $20K/$75K is the owner's exposure.
+- X-07 (procurement §8 named): revised procurement subtotals for the lead's consolidated table are in the summary below; my Phase 1 §8 ($1.17M / $2.16M) is superseded.
+- X-03 (PR-note-12 named): agreed — procurement carries no sitework; architect adds the earthwork/on-site-utilities/lighting/landscape/E&SC line or adopts auditor §1a.
+- A-02 (procurement §2.5 named): agreed — architect owns belt trench (12-18 in full length per PR-note-3), pits, trench drains, epoxy at EXP; Maxx $18-28/sf on ~4,800 sf is the right basis.
+- X-06: confirmed no procurement line carries an embedded contingency; HIGH values are range tops from the cited sources, not pads.
+- X-08 items (4) used equipment ≤15% of package and (8) image money as an amortizing loan: agreed, both already in procurement §1.3/§2.4.
+
+**Procurement revised subtotals (rev. Phase 2; equipment + specialty install + newly owned lines; excludes shell, sitework, paving, concrete, signage pylon, first-fill, inventory):**
+| Line | Cheapest-credible | Best-value | Change vs Phase 1 |
+|---|---|---|---|
+| Fuel (tanks, install, ATG, dispensers, POS, canopy at architect's sf) | $666K | $999K | +$70K / +$90K (X-02 canopy) |
+| Car wash (tunnel ex-vac + combined vacuum line) | $635K | $1,245K | +$90K / +$250K (PR-01, X-02) |
+| EV owner capex | $28K | $251K | 0 / 0 (PR-04 adder optional: +$430K-$1,020K) |
+| Store FF&E / coolers / kitchen / IT (new, X-01) | $260K | $360K | +$260K / +$360K |
+| Site electrical service / switchgear / distribution (new, X-04) | $115K | $150K | +$115K / +$150K |
+| **Total procurement scope** | **$1,704K** | **$3,005K** | +$535K / +$845K |
+| Brand image money offset (loan, if branded) | -$0 to -$120K | -$120K to -$250K | unchanged |
+
 ## Resolutions
 
 (auditor/lead records final outcome per ID)

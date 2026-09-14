@@ -86,7 +86,7 @@ Source key (used throughout):
 | Dispensers, 3 or 4 MPDs (6/8 positions), EMV/contactless, blender | (a) Gilbarco Encore 700S (Guardian/JF); (b) Wayne Ovation 2 (SPATCO); (c) Bennett Pacific (regional Bennett dealer) | 3 x $16K = $48K (Bennett) | 4 x $22K = $88K (Encore 700S / Ovation) | 4 x $30K = $120K (700S w/ 15.6" media screens) | [GSCH]: Encore 700S $18-28K, Ovation $17-26K; PEI forum bid reports (2016-19): Encore bid ~2x Bennett Pacific bid; [USTC] Jul 2026: $8-25K equipment, $15-30K installed; [BM-GS] Jul 2026: $15-20K dual-sided | Gilbarco 4-6 wks (PPI Oct 28, 2025) [PPI]; Wayne 4-8 wks; Bennett often stock | Best value: Encore 700S — service density in NC is Gilbarco's (Guardian + JF both). Cheapest: Bennett is credible only if a Bennett-authorized service tech is within 60 miles; check before buying. |
 | Dispenser install/commissioning (set, plumb, wire, calibrate, EMV certify) | included in installer bid | $3K/MPD | $4K/MPD | $5K/MPD | search-surfaced install $2.5-3K/dispenser (2026 guides); + EMV/network certification | with install | Roll into fuel-system installer scope |
 | POS / site controller (2 registers, forecourt controller, EMV pinpads, back office, install, training) | (a) Gilbarco Passport (Guardian/JF); (b) Verifone Commander + Ruby Ci/Topaz (SPATCO); (c) NCR Radiant / Petrosoft cloud POS (only if unbranded and no major-brand certification needed) | $25K | $35K | $50K | [USTC] Jul 2026: POS $5-50K; secondary-market floor: Commander controller $3.7K, Ruby2 $3.35K (eBay 2025). Quote-only above the floor. Owners have already compared Passport vs Commander — the price delta is small; the decision is driven by brand certification and which distributor holds the service contract | 3-6 wks + brand certification | Match POS to the dispenser vendor's distributor (Passport with Gilbarco/Guardian, Commander with Wayne/SPATCO). Budget $4-7K/yr software/support either way. |
-| Canopy, steel, 14'6"-16' clear, deck, fascia, footings, LED (6-pos ~2,700 sf; 8-pos ~3,500 sf) | (a) McGee Corp (Matthews NC — local, pre-engineered); (b) Sarlo Corp (serves Raleigh/Charlotte); (c) Enloe Inc (SC); (d) Austin Mohawk (NY, ships national); (e) Oilmens (Wilson NC, also installs) | $120K (2,700 sf @ ~$45/sf) | $190K (3,500 sf @ ~$55/sf) | $260K (3,500 sf @ ~$75/sf w/ brand fascia, ACM columns) | [BM-GS] Jul 2026: steel canopy $180-250K; [USTC] Jul 2026: $75-300K; [BV] Jul 2025: commercial canopy $25-45/sf shell only, footings $8-10K each, lighting $2-10K. Quote-only per site | 8-12 wks fabrication after shop-drawing approval (UNVERIFIED; typical fabricator statement — planner to confirm) | McGee (local, no freight, same-state service). LED: ~1 fixture per 150-200 sf, 100-150W, ~20 fixtures for 3,500 sf — $6-12K fixtures. |
+| Canopy, steel, 14'6"-16' clear, deck, fascia, footings, LED — **rev. Phase 2 (X-02): procurement is owner-of-record at the architect's areas: 6-VFP 3,100 sf; 8-VFP 4,100 sf** | (a) McGee Corp (Matthews NC — local, pre-engineered); (b) Sarlo Corp (serves Raleigh/Charlotte); (c) Enloe Inc (SC); (d) Austin Mohawk (NY, ships national); (e) Oilmens (Wilson NC, also installs) | $232K (8-VFP: $40/sf + 8 footings $50K + LED $8K + fascia $10K); 6-VFP LOW $190K | $280K (8-VFP: structure+deck $45/sf = $185K + 8 footings × $8-10K = $70K + LED $10K + fascia/ACM $15K) | $348K ($55/sf + $80K footings + $12K LED + $30K brand fascia) | [BM-GS] Jul 2026: steel canopy $180-250K; [USTC] Jul 2026: $75-300K; [BV] Jul 14, 2025: commercial canopy $25-45/sf shell only, footings $8-10K each, lighting $2-10K. Quote-only per site | 8-12 wks fabrication after shop-drawing approval (UNVERIFIED; typical fabricator statement — planner to confirm) | McGee (local, no freight, same-state service). LED: ~1 fixture per 150-200 sf, 100-150W, ~24 fixtures for 4,100 sf — $8-14K fixtures. Architect §2.3 is deleted from the roll-up. |
 | Forecourt concrete (8" reinforced under canopy, islands, tank pad) | civil/concrete sub (3 bids) | architect/planner line | — | — | — | — | Not in my subtotal; flagging so it is not omitted |
 | NC DEQ fees | — | $498/tank compartment/yr operating fee (Jul 1, 2025) [NCDEQ-F]; no separate new-install application fee listed | — | — | [NCDEQ-F] | UST-6A via AccessDEQ portal (email no longer accepted since Dec 15, 2025) [NCDEQ-I] | Planner: budget 2 inspections + ballast/test fuel delivery approvals |
 
@@ -99,19 +99,22 @@ Source key (used throughout):
 
 ### 1.4 Fuel-system subtotals (equipment + specialty install; excludes forecourt concrete, electrical service, building)
 
-| Line | Cheapest-credible (6 pos / 3 tanks) | Best-value (8 pos / 4 tanks) |
-|---|---|---|
-| Tanks delivered | $160K | $260K (200 + 60) |
-| Installation, piping, sumps, STPs, vapor, testing | $220K | $300K (275 + 4th-tank adder ~25) |
-| ATG package | $14K | $20K |
-| Dispensers | $48K (3 Bennett) | $88K (4 Encore 700S) |
-| Dispenser install/EMV | $9K | $16K |
-| POS | $25K | $35K |
-| Canopy w/ LED | $120K | $190K |
-| **Subtotal** | **$596K** | **$909K** |
-| Less brand image money (if branded) | -$0 to -$120K | -$120K to -$250K |
+**rev. Phase 2** — canopy re-based to the architect's 3,100 / 4,100 sf per X-02; tank count confirmed at 4 / 57K gal for best-value per PR-03 (3 tanks / 44K gal remains the cheapest-credible VE option only).
 
-Auditor note: [BM-GS] Jul 2026 carries "fuel infrastructure $200-350K" + "canopy $180-250K" + 4 dispensers $60-80K for a 2-3 tank, 4-MPD store = $440-680K; my best-value $909K is for 4 tanks/4 MPDs with ATG and POS added, so it sits above that band by design, not by padding.
+| Line | Cheapest-credible (6 pos / 3 tanks) | Best-value (8 pos / 4 tanks) | LOW / HIGH (best-value) |
+|---|---|---|---|
+| Tanks delivered | $160K | $260K (200 + 60) | $210K / $330K |
+| Installation, piping, sumps, STPs, vapor, testing | $220K | $300K (275 + 4th-tank adder ~25) | $250K / $400K |
+| ATG package | $14K | $20K | $14K / $28K |
+| Dispensers | $48K (3 Bennett) | $88K (4 Encore 700S) | $64K / $120K |
+| Dispenser install/EMV | $9K | $16K | $12K / $20K |
+| *Fuel system turnkey ex-canopy ex-POS (PR-03 check vs auditor $500K / $700K / $950K)* | *$451K* | *$684K* | *$550K / $898K* |
+| POS | $25K | $35K | $25K / $50K |
+| Canopy w/ LED, footings (rev. Phase 2, X-02) | $190K (3,100 sf) | $280K (4,100 sf) | $232K / $348K |
+| **Subtotal (rev. Phase 2)** | **$666K** | **$999K** | **$807K / $1,296K** |
+| Less brand image money (if branded) | -$0 to -$120K | -$120K to -$250K | |
+
+Auditor note: [BM-GS] Jul 2026 carries "fuel infrastructure $200-350K" + "canopy $180-250K" + 4 dispensers $60-80K for a 2-3 tank, 4-MPD store = $440-680K; my best-value $999K is for 4 tanks/4 MPDs with ATG, POS and a 4,100 sf canopy with footings, so it sits above that band by scope, not by padding. Phase 1 subtotal was $596K / $909K.
 
 ---
 
@@ -146,7 +149,8 @@ Reading: Buildermuse's $280-420K is a base tunnel bill of materials; EB3's $1.4-
 | Component | Options (3+) | LOW | EXPECTED | HIGH | Source + date | Lead time | Recommendation |
 |---|---|---|---|---|---|---|---|
 | Base tunnel equipment package (arches, wraps, mitters, high-pressure, chemical delivery, dryers, controls) — 100 ft | (a) Sonny's (direct via Sonny's CarWash Services Southeast, 888-995-5989 [SCWS-SE]); (b) MacNeil (via NCS / MacNeil distributor — NC dealer UNVERIFIED, page fetch failed); (c) Motor City Wash Works; (d) AVW Equipment; (e) Belanger/NS Wash; (f) PECO | $300K | $380K | $450K | [BM-CW] May 2026 Sonny's $280-420K, MacNeil $260-400K | 8-16 wks typical order-to-ship (UNVERIFIED; Sonny's advertises in-stock components) | Bid Sonny's + MacNeil + one of Motor City/AVW. Sonny's wins on NC service density; MacNeil often wins on dryer/finish and price. |
-| 120-ft package (adds 2 more modules: extra wrap/tire-shine/ceramic arch, longer dryer bank) | same | $450K | $580K | $700K | [BM-CW] +$80-120K per 10 ft over 100-ft base; [EB3-CW] core $500-800K | same | Best-value case |
+| 120-ft package (adds 2 more modules: extra wrap/tire-shine/ceramic arch, longer dryer bank) — **Phase 1 figure, superseded** | same | ~~$450K~~ | ~~$580K~~ | ~~$700K~~ | [BM-CW] +$80-120K per 10 ft over 100-ft base; [EB3-CW] core $500-800K | same | See rev. Phase 2 row below |
+| **rev. Phase 2 (PR-01): 120-ft belt package, installed, ex-vacuums — belt conveyor, arches incl. wraps/mitters/high-pressure/tire shine/ceramic position, dryer bank ≥5 producers, chemical delivery, tunnel controller, RO + ≥80% reclaim + softener, 2 pay stations + LPR + gates, rigging/install/commissioning, options/menu signage** | Sonny's SE (direct); NCS/MacNeil; Motor City or AVW as third | $850K | $1,100K | $1,450K | [EB3-CW] Oct 29, 2025 build-up: core $500-800K + electronics/pay $150-400K + water $50-250K = $700K-$1.45M, midpoint ~$1.08M; architect §2.2 independent $1.1M EXP; [TCG-CW] Apr 2026 $1-2M+. Buildermuse's $280-420K is a stated 100-ft bare BOM (re-fetched May 27, 2026 text) and is no longer the anchor. Quote-only: decision rule in TASKS.md PR-01 (both quotes ≤$950K → $900K; $1.0-1.25M → $1.1M; >$1.25M → $1.45M) | 10-18 wks (Buildermuse, per planner) | Best-value case. Supersedes the separate 120-ft package, install, water, pay-station and options rows for best-value; those rows still apply individually to the 100-ft chain cheapest-credible build-up. |
 | Conveyor: chain (over-under) vs dual belt, 100-120 ft | Sonny's chain; Sonny's belt; MacNeil EVO-XR belt; Tommy Transporter dual belt (sold per-foot, quote-only) | chain 100 ft $60K | belt 120 ft $180K | belt 120 ft $260K | Belts 2-3x chain equipment cost, but trench/pit cost narrows the installed gap [CWP] Jul 7, 2026; [ABC]. Quote-only | in package | Best value = belt (throughput, no guide-rail damage, EV/wide-tire friendly, membership retention). Cheapest = chain. Architect: belt needs a shallow full-length trench vs deep chain pit at entry/exit. |
 | Tunnel equipment installation (rigging, set, plumb, wire to disconnects, commissioning, training) | manufacturer crew (Sonny's/NCS) vs independent car-wash installer | $45K | $65K | $90K | Quote-only; 8-12% of equipment is the industry rule of thumb used by [BM-CW]/[EB3-CW] style guides | 3-5 wks on site | Use the manufacturer's crew — warranty stays clean |
 | Water: reclaim (settling + cyclonic/UF + ozone/disinfection), RO spot-free, softener | (a) Sonny's/PurClean (NCS); (b) SoBrite; (c) Aqua Bio / Water Savers; (d) RainDance/AMPAC RO | $60K | $110K | $200K | [BM-CW] May 2026: reclaim installed $30-80K, 60 gpm system $55-70K; [EB3-CW] Oct 2025 & [TCG-CW] Apr 2026: $50-250K water treatment; RO sized to final rinse only (1-3 gal/car) keeps RO small (AMPAC guide) | 6-10 wks | Best value: 80%+ reclaim — Charlotte/Raleigh sewer rates make payback 9-18 months (NCS/PurClean claims 65-75% water/sewer savings). Verify municipality allows reclaim discharge credits. |
@@ -164,18 +168,20 @@ Reading: Buildermuse's $280-420K is a base tunnel bill of materials; EB3's $1.4-
 
 ### 2.5 Tunnel subtotals (equipment + specialty install; excludes building, trench/pit concrete, vacuum canopy, sitework)
 
-| Line | Cheapest-credible (100 ft chain) | Best-value (120 ft belt) |
-|---|---|---|
-| Tunnel package | $300K | $580K (belt premium inside) |
-| Conveyor delta | included (chain) | included (belt) |
-| Installation/commissioning | $45K | $65K |
-| Water reclaim + RO + softener | $60K | $110K |
-| Pay stations + LPR + membership + gates | $70K | $110K |
-| Vacuums | $55K | $95K |
-| Options/signage/menu | $15K | $35K |
-| **Subtotal** | **$545K** | **$995K** |
+**rev. Phase 2** — best-value re-based to the EB3 build-up per PR-01; vacuums become one combined line (equipment + vacuum canopy/pads) owned by procurement per X-02; pay stations are procurement-only (architect §2.5 lines deleted).
 
-Cross-check: [EB3-CW] full-equipment benchmark $1.4-2.1M is for 20-30 stalls and a heavier electronics package; scaling vacuums down to 10 stalls and stripping the second pay-lane premium puts an EB3-style site near $1.0-1.2M, which brackets my best-value figure from above.
+| Line | Cheapest-credible (100 ft chain) | Best-value (120 ft belt) | LOW / HIGH (best-value) |
+|---|---|---|---|
+| Tunnel package | $350K (Buildermuse midpoint, stated 100-ft scope) | in combined row below | |
+| Installation/commissioning | $45K | in combined row | |
+| Water reclaim + RO + softener | $60K | in combined row | |
+| Pay stations + LPR + membership + gates | $70K (Hamilton/Sonny's) | in combined row | |
+| Options/signage/menu | $15K | in combined row | |
+| *Tunnel ex-vacuums, installed* | *$540K* | *$1,100K* | *$850K / $1,450K* |
+| Vacuums — combined line (equipment + canopy/pads) | $95K (8 individual turbines $55K + canopy $40K) | $145K (central $95K + canopy/pads $50K) | $95K / $230K |
+| **Subtotal (rev. Phase 2)** | **$635K** | **$1,245K** | **$945K / $1,680K** |
+
+Cross-check: [EB3-CW] full-equipment benchmark $1.4-2.1M is for 20-30 stalls and a heavier electronics package; scaling vacuums to 10 stalls puts an EB3-style site at ~$1.2-1.3M, which the revised best-value now matches. Phase 1 subtotal was $545K / $995K; cheapest-credible remains a VE option (different machine: chain, 100 ft, Hamilton), not the plan EXP.
 
 ---
 
@@ -196,7 +202,7 @@ Cross-check: [EB3-CW] full-equipment benchmark $1.4-2.1M is for 20-30 stalls and
 | Component | Options (3+) | LOW | EXPECTED | HIGH | Source + date | Lead time | Recommendation |
 |---|---|---|---|---|---|---|---|
 | Tesla Supercharger, Tesla-funded host model (Tesla owns/operates; host provides 8+ stalls, restrooms, Wi-Fi/amenities; selection by Tesla expansion needs; application offers 8/16/24/50+ stalls) | Tesla only | $0 capex | $0 capex; host may forgo rent | $0 capex + owner-paid conduit/ADA/lighting tie-ins $10-25K | [TES-SR] Oct 2022 (Tesla page 403); TMC host threads report nominal/no rent (UNVERIFIED) | 12-24 months application-to-open, utility-driven (ESTIMATE, not published) | Apply at LOI stage. Value is map visibility + dwell time, not rent. Lease/easement term and exclusivity clause must be reviewed against the 504 lender's collateral requirements. |
-| Tesla Supercharger for Business (host buys hardware, installs w/ Tesla engineering support; Tesla operates, bills, 97% uptime; host sets price; min 4 V3/V4 posts; PSU install "as few as four days from delivery"; 8 posts <1 MW) | Tesla only | hardware quote-only | 4-post site est. $250-400K all-in (UNVERIFIED) | 8-post $500-800K (UNVERIFIED) | [TES-EVR] Mar 17, 2026; [TES-ELK] Nov 20, 2025 (first US site: Suncoast Charging, FL, 8 stalls); Drive Tesla (min 4 posts, Sep 2025) | 6-12 months | Only if Tesla declines the funded application; then compare against owned dual-standard DCFC below. |
+| Tesla Supercharger for Business (host buys hardware, installs w/ Tesla engineering support; Tesla operates, bills, 97% uptime; host sets price; min 4 V3/V4 posts; PSU install "as few as four days from delivery"; 8 posts <1 MW) | Tesla only | **rev. Phase 2 (PR-04):** 4 posts $430K (hardware $250K + install 4 × $45K) | 4 posts $470K; 8 posts $940K | 4 posts $510K; 8 posts $1,020K | Electrek Apr 8, 2026 (https://electrek.co/2026/04/08/tesla-supercharger-for-business-configurator-pricing/): hardware $500K per 8 V4 posts fixed nationwide; install $45-65K/post by tier; ~$940K all-in for 8; $0.10/kWh network fee; configs 4/8/16/24. [TES-EVR] Mar 17, 2026; [TES-ELK] Nov 20, 2025 (first US site: Suncoast Charging, FL, 8 stalls). Phase 1 "$500-800K HIGH" withdrawn | 6-12 months | NOT in any subtotal. Optional adder only. Decision rule (adopted from auditor): apply for Tesla-funded at LOI; if no Tesla site offer by building-permit issuance, carry pad/conduit only ($15-25K), no self-funded Superchargers; owned DCFC capped at 2 dual units. OPEN RISK: no 2026 source confirms the Tesla-funded track is still offered to new third-party sites. Tesla easement on 504 collateral needs CDC/bank consent. |
 | Owned DCFC, 2 dual NACS/CCS stalls (1 power cabinet 180-240 kW shared, 2 dispensers) — hardware | (a) Autel MaxiCharger DC 180-240 kW (CCS1+NACS option; 76.8"H x 32.3"W x 27.6"D; 24-mo warranty, ext. to 5 yr) [AUTEL]; (b) ABB Terra 184 (5-yr warranty); (c) ChargePoint Express Plus / CPE250 (+$49/mo/port analytics); (d) BTC Power; (e) Kempower (7-yr power-module warranty; all software included) | $70K | $110K | $180K | [DCFC-G] 2026: $65K (Autel 250 kW basic) to $135K (Tritium 350 kW) installed per port — weak source, bracket only; Rexel lists Terra 184/CPE250 quote-only. Hardware is quote-only | 8-16 wks (UNVERIFIED) | Best value: Autel or ABB dual-standard with NACS native cable; Kempower if the site will grow to 4+ stalls. |
 | Owned DCFC — customer-side install (switchgear, 480V feeders, trenching, pads, bollards, signage, striping, networking) | electrical sub w/ DCFC experience (3 bids) | $60K | $100K | $150K | [DCFC-G] installed-per-port brackets less hardware; quote-only | 8-12 wks after Duke make-ready | Bid inside the site electrical package, priced as an add-alternate so the lender sees it separately. |
 | Utility-side make-ready (transformer, primary, conduit to meter) | Duke Energy MRC | $0 to owner if Duke MRC applies | $0-$20K | $60K+ if MRC declined/site ineligible | [DUKE-CE]; [DUKE-SW] | 6-12 months Duke design + construction (ESTIMATE; utility lead times not published) | Planner: this is the EV critical path; file with Duke at 30% civil drawings. |
@@ -212,7 +218,7 @@ Cross-check: [EB3-CW] full-equipment benchmark $1.4-2.1M is for 20-30 stalls and
 | Utility make-ready | $0 (Duke MRC) | $10K residual |
 | Destination L2 (4-6 Wall Connectors) | $10K | $16K |
 | **Subtotal** | **$28K** | **$251K** |
-| Incentives realistically capturable | Duke L2 credit ~$3-5K | Duke L2 + public DCFC credit (UNVERIFIED amount; carry $0-30K) |
+| Incentives realistically capturable (rev. Phase 2, X-05: carried as a separate line at $0; costs above are gross) | $0 (Duke L2 credit ~$3-5K, UNVERIFIED) | $0 (Duke L2 + public-DCFC credit $0-30K, UNVERIFIED; Duke written estimate letter is procurement's action at 30% civil) |
 
 ---
 
@@ -228,7 +234,9 @@ Cross-check: [EB3-CW] full-equipment benchmark $1.4-2.1M is for 20-30 stalls and
 | GC net pre-tax profit (what the market actually keeps) | 5-7% average; top firms 10% | CFMA benchmarks cited in [HG] |
 | Owner-builder penalties | 5-10% higher sub/material pricing (no volume discounts); worked example: $1M project expected to save $200K, ended $158K OVER the GC bid after delays, owner time, insurance | [L4] May 30, 2024 |
 
-Realistic owner-GC savings on a ~$5-6M hard-cost program: gross fee avoided 10-15% = $500-900K; give back 5-8% for general conditions you still pay (superintendent, temp power/fencing/toilets, builder's risk + GL, dumpsters, surveying, punch), and 3-5% for sub pricing premium and schedule slip. **Net realistic: +3% to +7% ($150-400K). Failure mode: -3% to -8% (-$150K to -$450K) plus 3-6 months of extra construction interest.** Best-value structure: hire an NC-licensed GC as CM-agency at 4-6% with a full-time superintendent, owners hold the subcontracts. Planner/auditor to verify (a) NC GS 87-1 owner-builder exemption applicability to a commercial build, and (b) that the 504 bank/CDC will close on an owner-GC structure at all — most require a licensed GC of record, bonding, and a fixed-price contract. This is a financing risk before it is a construction risk.
+**rev. Phase 2 (PR-05 / P-01) — the +3% to +7% pure owner-GC figure is withdrawn.** Two findings from the auditor are decisive: (1) G.S. 87-1 as amended by S.L. 2023-108 exempts an owner-builder only where the building is "solely for occupancy by that person… after completion" with a G.S. 87-14 affidavit and a 12-month presumption; a 504 EPC/OC lease plus any Tesla/CPO ground lease means the exemption cannot be relied on (counsel to opine; assume it does not apply). (2) SOP 50 10 8 (eff. Jun 1, 2025) permits borrower-as-contractor only if licensed and experienced, cost-proven by two bids, and with no profit; SBA calls DIY construction "generally unsatisfactory," and 504 construction lenders want a fixed-price/GMP contract with a qualified GC.
+
+Revised position: delivery model = NC-licensed GC/CM-at-risk or CM-agency at 4-6% with fixed-price sub contracts and a full-time superintendent. Net saving vs a full GC = (GC fee 10-14%) − (CM fee 4-6%) − (sub pricing premium 3-5%, [L4] May 30, 2024) = **2-4% of hard cost ($145-290K on ~$7.2M)**, and it is NOT carried as a budget line; the plan budgets sub bids + CM fee + general conditions + contingency. Owners capture value instead through owner-furnished equipment packages (tunnel, fuel, canopy, vacuums ≈ $2.3M), avoiding 5-10% GC markup = $115-230K. Failure mode per auditor §5: $115-180K per month of slip; a 2-month slip erases the saving. Counterweight, OPEN: NC sales/use tax (~7-7.5% combined) on owner-furnished tangible equipment vs. real-property-contract treatment could offset $100-180K of the owner-furnished saving — CPA to rule before the bid strategy is fixed. OPEN RISK until two 504 banks/CDCs confirm in writing that the chosen structure closes.
 
 ### 4.2 Bid packages and who beats whom
 
@@ -293,12 +301,29 @@ Also appended to work/TASKS.md Phase 1 notes.
 6. POS installed package pricing (Passport vs Commander) above the secondary-market floor.
 7. Whether an owner-GC structure is acceptable to the target 504 bank/CDC.
 
-## 8. Subtotal summary (equipment + specialty install only)
+## 8. Subtotal summary — rev. Phase 2 (equipment + specialty install + newly owned lines)
 
-| System | Cheapest-credible | Best-value |
-|---|---|---|
-| Fuel (tanks, install, ATG, dispensers, POS, canopy) | $596K | $909K |
-| Car wash (tunnel, install, water, pay/LPR, vacuums, options) | $545K | $995K |
-| EV (owner capex) | $28K | $251K |
-| **Total procurement scope** | **$1.17M** | **$2.16M** |
-| Brand image money offset (if branded) | -$0 to -$120K | -$120K to -$250K |
+### 8.1 New lines owned by procurement after Phase 2
+
+| Line (owner: procurement) | LOW | EXPECTED | HIGH | Basis | Challenge |
+|---|---|---|---|---|---|
+| Store FF&E: walk-in cooler/freezer 16-20 doors + beer cave (remote refrigeration) | $100K | $135K | $175K | No public source; per-door installed $5-7K estimating basis; Hussmann/True/Master-Bilt quotes required | X-01 |
+| Kitchen line (fryers, flat-top, ovens, prep, reach-ins, hot/cold display, warmers); hood/ANSUL/grease interceptor remain architect MEP | $80K | $115K | $150K | [BM-GS] Jul 2, 2026: kitchen $80-150K | X-01 |
+| Store fixtures (gondolas, checkout, cigarette merchandiser, millwork, ice merchandiser) | $50K | $65K | $80K | [BM-GS] Jul 2, 2026: fixtures $50-80K | X-01 |
+| IT/security (cameras, DVR, network, back-office PC, digital menus, music) | $30K | $45K | $60K | auditor.md §1b; quote-only | X-01 |
+| *Store FF&E subtotal* | *$260K* | *$360K* | *$465K* | Fountain/coffee/ATM/ice usually vendor-placed at $0 capex; brand image money may fund part of fixtures — chase, do not book | X-01 |
+| Site electrical service: 1,200-1,600A 480/277V main switchboard, service entrance/CT/meter, distribution panels + 480→208 transformers, feeders/trenching to store/canopy/tunnel/vac court/EV, phased-energization sectionalizing | $115K | $150K | $210K | Load build-up ~800-850 kVA (store ~150, tunnel ~250-300, canopy ~30, DCFC ~300, L2 ~70; Tesla separately metered); Delta Wye 2025 $100-150K+ for 800-1,200A w/ switchgear, scaled one frame size. EE load letter required. Duke-side CIAC stays in planner 5.7, gross of credit | X-04 |
+
+### 8.2 Totals
+
+| System | Cheapest-credible | Best-value | Best-value LOW / HIGH | Phase 1 → Phase 2 change |
+|---|---|---|---|---|
+| Fuel (tanks, install, ATG, dispensers, POS, canopy at architect's sf) | $666K | $999K | $807K / $1,296K | +$70K / +$90K (X-02) |
+| Car wash (tunnel ex-vac installed + combined vacuum line) | $635K | $1,245K | $945K / $1,680K | +$90K / +$250K (PR-01, X-02) |
+| EV (owner capex; Tesla host-funded adder $430K-$1,020K optional, not included) | $28K | $251K | $130K / $380K | 0 / 0 (PR-04) |
+| Store FF&E / coolers / kitchen / IT (new) | $260K | $360K | $260K / $465K | +$260K / +$360K (X-01) |
+| Site electrical service / switchgear / distribution (new) | $115K | $150K | $115K / $210K | +$115K / +$150K (X-04) |
+| **Total procurement scope (rev. Phase 2)** | **$1,704K** | **$3,005K** | **$2,257K / $4,031K** | **+$535K / +$845K** |
+| Brand image money offset (amortizing loan, if branded) | -$0 to -$120K | -$120K to -$250K | | unchanged |
+
+Owner-of-record rules for the lead's consolidated table (X-02): canopy, vacuums (combined), pay stations, store FF&E, site electrical service = procurement; architect deletes §2.3 canopy, §2.5 vacuum and pay-station lines; architect keeps tunnel shell, trench/pit/floors (A-02), forecourt/tunnel/vac concrete, sitework (X-03), signage pylon/dumpster; planner keeps Duke CIAC (gross), first-fill, inventory, pre-opening, working capital, contingency, CM fee and general conditions (PR-05). Phase 1 §8 totals ($1.17M / $2.16M) are superseded.
