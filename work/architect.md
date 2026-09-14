@@ -131,9 +131,34 @@ Buildermuse's "$600-800K total express wash" figure is for a 60-80 ft stripped c
 
 | Option | Storage | LOW | EXPECTED | HIGH | Source |
 |---|---|---|---|---|---|
-| Surface wet pond / bioretention (0.25-0.35 ac) incl. outlet, forebay, fence, plantings | ~30,000 cf | $70K | $130K | $220K | Surface detention $0.15-1.00/cf storage: AquaRain 2026 https://aquarainwater.com/stormwater-detention-cost-per-cubic-foot/ ; bioretention $15-40/sf: Rainplan 2026 https://myrainplan.com/blog/bioretention/ . EB adds outlet structure and NC nutrient-treatment features. |
-| Underground chamber system under paving | ~30,000 cf | $255K | $380K | $510K | Underground detention $8.50-17/cf installed (Southeast excavation $25-38/cy): AquaRain 2026 (same URL) |
+| Surface SCM: bioretention/wet pond with nutrient-treatment features (Neuse/Jordan/Falls), forebay, outlet, fence, plantings, plus SCM permitting, engineer's as-built certification and recorded O&M agreement (rev. Phase 2, A-03) | ~30,000 cf | $85K | $155K | $250K | Surface detention $0.15-1.00/cf storage: AquaRain 2026 https://aquarainwater.com/stormwater-detention-cost-per-cubic-foot/ ; bioretention $15-40/sf: Rainplan 2026 https://myrainplan.com/blog/bioretention/ . Adders for permitting/as-built/O&M $15K / $25K / $30K (EB; required under Charlotte PCSO and Raleigh UDO 9.2). |
+| Underground chamber system under paving (rev. Phase 2, same adders) | ~30,000 cf | $270K | $405K | $540K | Underground detention $8.50-17/cf installed (Southeast excavation $25-38/cy): AquaRain 2026 (same URL) |
 | Delta underground vs surface | | +$185K | +$250K | +$290K | Buys back ~0.3 ac; only rational if land is > $0.8M/ac |
+
+### 2.7 Sitework other than paving and SCM (rev. Phase 2, X-03: new line)
+
+| Component | LOW | EXPECTED | HIGH | Basis |
+|---|---|---|---|---|
+| Clearing, mass and fine grading (~6,000 CY balanced regrade on 2.75 ac; tank pit excluded, fuel installer scope) | $100K | $170K | $300K | Earthwork $19/CY 2026Q1 (TruTec, auditor's source); clearing $2.7-11K/ac (Daniel Dean 2025); HIGH = rock/undercut |
+| On-site utilities: domestic + wash water taps, sewer lateral w/ grease interceptor and oil/water separator, ~1,000 LF storm pipe and inlets, gas, telecom conduit | $120K | $190K | $300K | UST Contractors (Jul 2026) utility infrastructure $50-500K+; EB quantities |
+| Site lighting, 10-14 poles, bases, branch circuits | $50K | $75K | $110K | EB |
+| Landscape, street trees, irrigation, buffer fence, dumpster screen | $40K | $65K | $110K | EB; Charlotte/Raleigh buffer and street-tree standards |
+| E&SC measures, sediment basin, construction entrance, seeding, self-inspections | $25K | $40K | $70K | EB; 15A NCAC 04B plan required at 1 ac |
+| Subtotal | $335K | $540K | $890K | Cross-check: Maxx Builders (Oct 8 2025) $4-7/sf of lot for grading + utilities + drainage + paving = $480-840K on 119,790 sf for a light-duty wash lot; plus heavy-concrete premium on 36,000 sf ($180-290K) = $660K-$1.13M, which brackets paving $637K + this line $540K = $1.18M at the top. Curb/gutter/sidewalks remain in Sec. 2.4. |
+
+### 2.8 Site electrical service, switchgear and site distribution (rev. Phase 2, X-04: new line, architect-owned)
+
+| Component | LOW | EXPECTED | HIGH | Basis |
+|---|---|---|---|---|
+| 480/277 V 3-ph service entrance, 1,200 A main switchboard, metering | $70K | $95K | $120K | Delta Wye (2025): 1,200 A service $70-120K https://deltawye.com/cost-of-upgrading-an-industrial-electrical-service/ |
+| Two dry-type step-down transformers + 208 V distribution boards (store, tunnel) | $30K | $45K | $65K | EB |
+| Site duct banks and feeders to tunnel, canopy, vacuum court, lighting, EV stubs (~1,200 LF) | $50K | $80K | $135K | Trenching $50-150/LF (Delta Wye) + conductors |
+| Phased-energization provisions: spare switchboard section, separately metered DCFC service stub (planner P-note-3) | $10K | $20K | $30K | EB |
+| Subtotal | $160K | $240K | $350K | Sizing: store ~200 kVA + tunnel ~350-400 kVA + canopy/STPs ~50 kVA + 6 L2 ~70 kVA + lighting ~20 kVA = ~700-750 kVA = ~1,000 A at 480 V. DCFC (500-750 kVA, PR-note-6) on its own Duke make-ready transformer; Tesla yard on Tesla's transformer. Splitting the three services is what keeps the gear at 1,200 A and the store off the 40-65 wk transformer path. Electrical engineer's load letter required. Excludes interior distribution ($/sf), forecourt conduit (fuel installer), canopy LED (canopy line), tunnel equipment wiring from disconnects (procurement). Duke-side CIAC stays in planner 5.7; no credit netted (X-05). |
+
+### 2.9 Store FF&E, coolers, kitchen, fixtures (rev. Phase 2, X-01: carried by PROCUREMENT, listed here so it is not dropped)
+
+$250K / $350K / $500K placeholder (Buildermuse Jul 2 2026: kitchen $80-150K, fixtures $50-80K; walk-ins quote-only; security/network $30-60K) until Hussmann/True/Master-Bilt and kitchen-line quotes land. Not in the architect total.
 
 ---
 
