@@ -324,4 +324,78 @@ Data marked THIN (need vendor/agency quotes in Phase 2): vacuum system (g), disp
 | X-08 | all | lender-rejection checklist (8 items) | financing | — | Lead lists in plan §6 |
 | X-09 | all | concessions: $498/tank fee; planner's tax rates; planner's land; procurement's 30C/VW/NEVI findings; 40 CFR 280.93 FR note; seller-note 504 treatment OPEN; Raleigh capacity fee OPEN | concessions / opens | small | Recorded |
 
-Net effect on my independent range after concessions (A-03 -$120K, P-03 -$30K) and additions (P-02 +$110-180K): EXPECTED all-in ex-land stays ~$9.5M; LOW $6.7M; HIGH $13.9M unchanged.
+Net effect on my independent range after Phase 2 challenges alone (A-03 -$120K, P-03 -$30K, P-02 +$110-180K): ~$9.5M EXP. Superseded by the resolution pass below.
+
+---
+
+## Consolidated budget (post-resolution) — mirror of work/TASKS.md "Consolidated budget"
+
+All $K, ex-land, 2026 dollars. Full line detail, owners and sources are in TASKS.md; this mirror carries the totals, the reconciliation, the equity check and the open risks.
+
+### Resolution rulings that moved numbers (one line each)
+- X-04: one owner = architect, $160/$240/$350 (split-service topology, full site distribution); procurement's $115/$150/$210 withdrawn; no overlap with planner's Duke CIAC (utility-side) or procurement's DCFC customer-side install.
+- X-02: canopy = procurement $232/$280/$348 at 4,100 sf; vacuums split into procurement equipment $55/$95/$150 + architect canopy/drops $35/$55/$80 (procurement's "combined" line double-carried the canopy — ruled out); pay stations inside PR-01; Tesla tie-ins = architect sleeves $15/$20/$25 only (procurement EV becomes $120/$236/$365).
+- X-03: architect $335/$540/$890 wins over my $400K (quantity build-up beat my top-down; my $400K was the bottom of my own range).
+- PR-01: procurement/architect $850/$1,100/$1,450 accepted; my $1.2M conceded; quote decision rule recorded.
+- PR-05/P-01: base case = CM-agency 4/5/6% + general conditions 2/2.5/3.5% ($546K EXP on consolidated hard); owner-GC is the rejected model; lender acceptance OPEN.
+- A-02: architect wash floors $75/$110/$155; my "$18-28/sf Maxx" citation withdrawn (came from a search summary, not the page).
+- A-03, PR-03, A-01, P-02, P-03, P-06, X-06: as proposed in the challenge log; all recomputed on the consolidated hard cost.
+- Arithmetic defects flagged: architect's stated LOW/HIGH subtotals ($3,022K/$5,762K) vs component sums ($2,847K/$6,007K); planner's stack keyed to $9.05M vs consolidated $9.94M.
+
+### Totals
+
+| Block | LOW | EXP | HIGH (line-sum) |
+|---|---|---|---|
+| Hard — architect (A1-A12 incl. off-site $0/$300/$600) | 2,847 | 4,407 | 6,607 |
+| Hard — procurement (P1-P8) | 2,142 | 2,870 | 3,856 |
+| **Hard cost total** | **4,989** | **7,277** | **10,463** |
+| of which owner-furnished equipment packages | 1,860 | 2,510 | 3,378 |
+| Soft: CM fee 364 + GCs 182 + A&E 437 + env/survey 45 + SDF 85 + permits 60 + Duke CIAC 75 + BR/GL 70 (EXP) | 607 | 1,318 | 2,491 |
+| Contingency 10% of hard (single financed line) | 499 | 728 | 1,046 |
+| Interim interest (P-02 structure, 20-month schedule) | 235 | 462 | 985 |
+| SBA/CDC/bank fees (~1.55% of TPC) | 102 | 154 | 235 |
+| **TPC ex-land (504-eligible, financed)** | **6,532** | **9,939** | **15,220** |
+| Non-504 cash: pre-opening 105 + inventory 210 + float 90 + ramp reserve 450 (EXP) | 545 | 855 | 1,150 |
+| **All-in ex-land (team, post-resolution)** | **7,077** | **10,794** | **16,370** |
+| Owner liquidity reserve to evidence, not spent (2/3/5% of hard) | 100 | 218 | 523 |
+
+Arithmetic (EXP): 7,277 + 1,318 + 728 + 462 + 154 = 9,939; interest 0.90 x 9,939 x 7.75% x 0.6667 = 462; fees 1.55% x 9,939 = 154. The HIGH column is a line-sum, not a scenario; a coherent stressed scenario (hard +20%, underground detention, 26 months at 8.25%, HIGH soft percentages) computes to about $14.4M all-in ex-land.
+
+### Optional adders (not in totals)
+Host-funded Tesla 4 posts $430/$470/$510 or 8 posts $860/$940/$1,020 (not recommended); underground detention +$185/$250/$290; VE 100-ft tunnel -$250/$320/$420; VE 3 tanks -$85; VE cheapest-credible wash package -$560 (different machine); VE 6 VFP/3,100 sf canopy -$90; brand image money -$0/$120/$250 as an amortizing loan.
+
+### Reconciliation to my Phase 1 independent range ($6.7M / $9.5M / $13.9M)
+
+| Component | Auditor Phase 1 EXP | Team post-resolution EXP | Delta | Reason |
+|---|---|---|---|---|
+| Hard | 7,190 | 7,277 | +87 | X-03 +177, A-02/MEP +190, PR-01 -100, store incl. FF&E -140, SCM -95, other +55 |
+| Soft ex-contingency | 900 | 1,934 | +1,034 | CM fee + general conditions +546 (the PR-05 structure I demanded; Phase 1 carried none because the brief assumed owner-GC); interest +222 (P-02 conceded); rest ≈ flat |
+| Contingency | 860 | 728 | -132 | 10% financed + liquidity reserve outside TPC |
+| Non-504 cash | 560 | 855 | +295 | Ramp reserve sized to year-1 DS shortfall; float added |
+| **All-in ex-land** | **9,510** | **10,794** | **+1,284** | Fully explained; no residual |
+
+### Auditor's revised independent final range (replaces §6)
+**LOW $7.1M / EXPECTED $10.8M / HIGH $14.4M (coherent stress); all-lines HIGH $16.4M.** The evidence that moved me: PR-05 (a lender-acceptable delivery model costs a CM fee and general conditions), P-02 (interest through debenture funding), P-03/P-05 (ramp reserve sized to the lender's shortfall), X-03/A-02 (quantity build-ups beat my top-downs). The prior $6-8.5M ex-land estimate sits below the LOW of any bankable structure.
+
+### Equity check (13 CFR 120.910; 15% special-purpose / 20% if also <2 yrs)
+
+| Case | TPC | Equity 15% | Equity 20% | Total cash incl. non-504 $855K: 15% / 20% | + liquidity $218K |
+|---|---|---|---|---|---|
+| Ex-land EXP | 9,939 | 1,491 | 1,988 | 2,346 / 2,843 | 2,564 / 3,061 |
+| Ex-land LOW | 6,532 | 980 | 1,306 | 1,525 / 1,851 (non-504 $545K) | |
+| + land $2.0M | 11,939 | 1,791 | 2,388 | 2,646 / 3,243 | 2,864 / 3,461 |
+
+Debt service: ex-land 15% $724K / 20% $683K; with land 15% $870K / 20% $821K. R2 EXP NOI $935K → 1.29x / 1.37x ex-land; 1.07x / 1.14x with land (fails 1.25x). Break-even GP: ≈$108K/mo ex-land (15%), ≈$123K/mo with land. Planner's $9.05M-keyed equity figures ($1,358K/$1,810K; with land $1,658K/$2,210K) are superseded: +$133K / +$178K. Debenture cap $5.0M binds only at the coherent HIGH with land.
+
+### Open risks, priority order
+1. Revenue case: bankable only at ≈$108K/mo GP ex-land (≈$123K with land); no trade-area data yet; with land R2 EXP fails 1.25x.
+2. Ramp/year 2: 0.4x year 1, ~0.9x year 2 → 18-month reserve (~$450-550K) or dealer-store global cash flow ≥$150-250K/yr.
+3. Delivery model acceptance: CM-agency vs CM-at-risk (+$100-200K); G.S. 87-1(a) counsel opinion; NC sales/use tax on owner-furnished equipment ($100-180K).
+4. Equity sourcing: $2.35-2.84M ex-land / $2.65-3.24M with land, plus $0.22M liquidity, vs $360-720K/yr dealer-store retained cash.
+5. Tesla funded track unconfirmed; $0 base with decision rule; host-funded not recommended.
+6. Tunnel package quotes (±$200-350K decision rule).
+7. Schedule: 20 months EXP; Duke transformer long pole; $115-180K per month of slip.
+8. Off-site improvements $0-600K by parcel.
+9. Duke public-DCFC credit and Raleigh capacity fees unverified.
+10. Quote-only lines ~$300K (walk-ins, POS, vacuums, dispensers).
+11. 2024 NC code edition if permit issues in 2027.
