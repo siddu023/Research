@@ -363,6 +363,21 @@ Every challenge in the round was closed as RESOLVED-BY-EVIDENCE or logged here. 
 | 12 | **Jobber image money.** $0-250K of owner capex relief is unpublished and carries a 10-year supply obligation. | Carried at $0 in the budget. | Three jobber term sheets (Sampson-Bladen verified as an NC jobber; Quality Oil and a Marathon/Sunoco jobber to verify) |
 | 13 | **Data limits of this study.** All four agents exhausted their web-search budgets; Tesla, Duke, Gilbarco and MacNeil pages returned 403. Every number is sourced to published 2025-2026 guides, listings, statutes and program documents, not to vendor quotes for this site. | — | Replace the quote-only lines with written quotes; nothing here substitutes for a feasibility study and an as-complete appraisal |
 
+### Owner's counter-position and reconciliation (recorded 2026-09-14)
+
+The owners report GC and contractor conversations pricing a full station (12 positions, large store, ex-land, no wash) at about $2.5-3M and a standalone express wash at $1.5-2M, for roughly $4.5M total; with their own crew and own procurement they expect a further 20-25% reduction to about $4-4.5M, and a market sale value of $6-7M yielding 10-15% on the project.
+
+| Owner figure | Plan figure | Gap | Likely explanation |
+|---|---|---|---|
+| Station $2.5-3M | Gas + store hard cost ~$4.0M (A1, A6-A10, A12 share, P1-P3, P6, P8) | $1.0-1.5M | GC verbal numbers typically exclude the fuel system ($684K, separate petroleum contractor), store coolers/kitchen/fixtures/IT ($360K), off-site road work ($0-600K), main electrical service and Duke charges ($150-300K), and stormwater engineering/permitting ($100-155K). Those exclusions sum to $1.3-2.0M. Action: obtain the GC's scope and exclusions list in writing and reconcile line by line. |
+| Wash $1.5-2M | Wash building + equipment $2.4M (120 ft belt, pay/LPR, 80% reclaim); $3.1M with site share | $0.9-1.6M | The owner figure matches the plan's cheapest-credible configuration (100 ft chain, basic equipment: ~$1.6M building + equipment). It is a different machine (Section 4, items 14-15), not the same machine at a lower price. |
+| 20-25% self-perform saving | Net 2-4% for owner-GC (fee only); 10-20% on self-performed trades if an actual crew exists | — | Self-performed concrete, steel erection and paving are ~40% of hard cost; a 10-20% saving there is 4-8% of the total. Fuel, tunnel equipment, canopy, electrical and stormwater cannot be self-performed. An NC GC license held by a partner would remove the G.S. 87-1 problem and narrow the SOP 50 10 8 problem. |
+| $4-4.5M "all-in" | Plan LOW all-in $7.1M | — | The owner figure is hard cost. Adding A&E, permits and utility fees, interim interest, 10% contingency, insurance and the non-504 opening cash (~$1.7-2.0M) brings it to ~$6.2-6.5M, near the plan's LOW. The disagreement is about the low end of the range, not a different order of magnitude. |
+| Sale at $6-7M, 10-15% margin | Value = NOI / cap rate; independent operator cap ~7-8% | — | At the $60K/mo store target plus a 2,500-member wash, NOI ~$335K → value ~$4.5M at 7.5%: roughly cost, no margin. At the $110K/mo flagship case, NOI ~$935K → ~$12.5M. The margin exists only if the revenue case holds; construction savings do not create it. A pre-revenue new build sells near cost (comp: NC957 turnkey wash at $3.9M with land). |
+| Net zero from day zero | Year-1 wash ramp shortfall regardless of cost | — | With ~$4.5M of debt the ramp reserve shrinks but does not disappear; year 1 remains below break-even while membership builds. |
+
+Team position unchanged: hard cost LOW $5.0M / EXP $7.3M; all-in LOW $7.1M / EXP $10.8M. Owner position recorded as an OPEN item pending (a) the GC's written scope and exclusions, (b) confirmation of an NC GC license in the ownership group, and (c) a corner-specific gallons and inside-sales study, which decides the asset's value far more than the build cost.
+
 ### Disagreements resolved by evidence (summary)
 
 | ID | Dispute | Resolution |
