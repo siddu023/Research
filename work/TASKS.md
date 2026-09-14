@@ -5,8 +5,8 @@ Lead maintains this file. Agents append to their sections; nobody edits another 
 ## Status
 
 - Phase 1 (parallel research): DONE
-- Phase 2 (challenge round): IN PROGRESS
-- Phase 3 (synthesis): pending
+- Phase 2 (challenge round): DONE
+- Phase 3 (synthesis): DONE — FLAGSHIP-PLAN.md at repo root
 
 ## Conventions
 
