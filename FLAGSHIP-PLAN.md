@@ -306,6 +306,41 @@ Equity sourcing reality: three dealer stores netting an estimated $10-20K/month 
 
 Builder's risk 0.5-1% of hard ($35-80K); construction GL/OPL/WC $12-35K; storage-tank pollution liability $1M/$1-2M at $2.5-8K/yr (lenders require it even though the NC Commercial UST Trust Fund provides financial responsibility above a $20K deductible at $498 per tank per year); operating package year 1 $35-80K; third-party wash feasibility study $8-15K; SNDA and 13 CFR 120.131 compliance memo for the Tesla lease $5-10K.
 
+### 6G. What sites like this actually do (industry benchmarks, added after synthesis)
+
+Plain-language check of the revenue case against published averages. "GP" = gross profit (sales minus cost of goods), before payroll, utilities and other operating expenses.
+
+| Benchmark | Fuel | Inside sales | Combined store GP per month | Source |
+|---|---|---|---|---|
+| Average US fuel-selling c-store | ~2,500 gal/day = ~76K gal/mo (~0.9M gal/yr) | NACS 2025: $341.2B across 151,975 stores = ~$2.2M/yr = ~$187K/mo (all stores, skewed upward by big chains) | ~$90K/mo (76K gal x ~$0.36 gross + $187K x 35%) | NACS "Who Sells America's Fuel" 2026; NACS SOI 2025 data (Apr 15, 2026) |
+| "Typical" SBA-financed independent station (lender database) | ~117K gal/mo | ~$90K/mo | ~$70-75K/mo | MMCG Invest, Fannie Mae/CoStar/CMBS/IBISWorld data (2023) |
+| RS Fuels per-store target (brief) | — | — | $60K/mo | CLAUDE.md |
+| **What this flagship needs to be bankable** | **150-250K gal/mo** | **$150-180K/mo** | **~$108-110K/mo** | Section 6C |
+| What chains build new stores for | 3.5-4M gal/yr = ~290-330K gal/mo ("three to four times the average site"); Murphy USA new stores >310K gal/mo | — | — | MMCG Invest, US Gas Station Outlook 2026 (Jul 2026) |
+| Fuel margin, 2025 | Gross above 40 cpg (35.7 cpg Jan 2025; ~22-24 cpg pre-2020); card fees ~8.4 cpg; net after all retail expenses 10-15 cpg | — | — | NACS "Who Makes Money Selling Gas"; OPIS; MMCG 2026 |
+| Inside margin mix | — | Foodservice 28.5% of inside sales but ~39-40% of inside GP; prepared food ~55% margin, hot beverages ~62% | — | NACS SOI 2025 data |
+
+Reading: the plan's $110K/month is about 1.2x the NACS average store and about 1.5x a typical independent, but it is well below what chains require before they build (their new stores run 3-4x average fuel volume). The RS Fuels $60K/month target is a below-average store. NACS's own finding is that only the top quartile of operators make money on inside sales alone; for everyone else fuel margin subsidizes the box.
+
+| Express wash benchmark | Members per site | Revenue per site | Margin | Source |
+|---|---|---|---|---|
+| Median stabilized express site | ~2,875 (weak below 2,000; best above 5,000); ramp ~1,000 at month 12, ~2,000 at month 24, 2,500-3,000 by month 36 | $700K to $2M+ (weak sites $300-500K) | 40-50%+ store-level EBITDA | MMCG Invest, Express Car Wash Revenue and Feasibility (Jun 4, 2026) |
+| Tommy's Express franchise (2024 FDD, 164 units) | not disclosed | Average $1.65M; median $1.57M; top quartile $2.27M; bottom quartile $1.54M | not disclosed | FranDB / FranchiseChatter 2025 |
+| Mister Car Wash (548 sites, FY2025) | ~4,200 (2.3M members / 548) | ~$1.85M (>$1.0B / 548) | membership 70-80% of sales at scaled operators | Mister Car Wash Q4 2025 release (Feb 18, 2026); NCS 2026 |
+| Membership pricing | $28-34/month advertised average, $34 in 2026; churn ~7-8%/month | — | — | WashIndex 2026; NCS 2026 |
+| **Plan's wash case (R2 EXP)** | **2,500 x $25** | **$1.0M** | **50% = $500K** | Section 6C |
+
+Reading: the wash case is conservative. $1.0M of revenue is below Tommy's bottom-quartile site and roughly half of a Mister Car Wash location; $25/month is below the $28-34 advertised range. The wash is not where the plan is optimistic. The store is.
+
+| EV benchmark | Figure | Source |
+|---|---|---|
+| Average public DCFC utilization | ~15.6% (weakening in Q1 2026) | Paren 2025 report; Q1 2026 report |
+| EVgo network throughput | 292 kWh per stall per day (Q4 2025) | EVgo Q4 2025 release (Mar 3, 2026) |
+| Revenue per stall | $3-5K/month only at 50-60% utilization, before demand charges; at industry-average utilization closer to $1-1.5K/month gross | Winsparking 2026; Energy Solutions 2026 |
+| Plan's EV case | $0 revenue for 3 years; 4 owned ports max | Section 6C |
+
+Reading: EV charging is a traffic and map-visibility play, not a revenue line. Carrying $0 is correct.
+
 ---
 
 ## 7. Open risks and unresolved disagreements
