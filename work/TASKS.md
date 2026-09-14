@@ -4,8 +4,8 @@ Lead maintains this file. Agents append to their sections; nobody edits another 
 
 ## Status
 
-- Phase 1 (parallel research): IN PROGRESS
-- Phase 2 (challenge round): pending
+- Phase 1 (parallel research): DONE
+- Phase 2 (challenge round): IN PROGRESS
 - Phase 3 (synthesis): pending
 
 ## Conventions
