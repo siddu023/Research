@@ -299,6 +299,29 @@ Data marked THIN (need vendor/agency quotes in Phase 2): vacuum system (g), disp
 
 ---
 
-## Phase 2 — Challenge log
+## Phase 2 challenge log (mirror of work/TASKS.md; full text and evidence there)
 
-(to be appended after reading architect / planner / procurement files)
+| ID | Target | Their number → my number | Type | $ impact (EXP) | Proposed outcome |
+|---|---|---|---|---|---|
+| X-07 | planner §2/§5, architect §3, procurement §8 | Case B $7.5M EXP → team's own lines sum to ~$9.0M once omissions close; my $9.5M | roll-up / mis-keyed case | +$1.5M TPC; +$300K equity; +$110K DS | Re-key stack to Case C as EXP |
+| X-03 | architect §2.4, planner §5, procurement PR-note-12 | $0 → $250K / $400K / $650K earthwork, on-site utilities, lighting, landscape, E&SC | omission | +$400K | Architect adds sitework line or adopts my §1a |
+| X-01 | architect §2.1, planner 5.13, procurement | $0 → $250K / $350K / $500K FF&E, coolers, kitchen, fixtures | omission (each points at another) | +$350K | Procurement adds package line with quotes |
+| PR-01 | procurement §2.3/§2.5 | $900K ex-vacs → $1.2M (architect $1.1M) | anchoring to Buildermuse 60-80 ft article | +$300K | Two written quotes; EXP $1.1-1.2M meanwhile |
+| PR-04 | procurement §3, architect A2, planner schedule | 8-post host-funded $500-800K → $940K published (Electrek Apr 8, 2026); Tesla-funded $0 unconfirmed | stale/unverified | $0 base; +$0.47-0.94M option | OPEN RISK; decision rule; no self-funding |
+| X-02 | architect §2.3/§2.5 vs procurement §1.2/§2.3 | canopy, vacuums, pay stations in both files | double count | -$485K if both summed | Owner-of-record per line; canopy ~$260-290K w/ footings at 4,100 sf |
+| P-06 | planner §1 vs architect §4.9 | 18 mo EXP → 20 mo EXP (architect 20-24) | contradiction | $115-180K per month of slip; ~+$70K interest | EXP 20 months |
+| X-06 | planner 5.11 | 7.5% → 10% financed + 2-5% owner reserve if owner-GC; one ramp reserve only | under-reserve / stacking | +$180K | Single visible contingency line |
+| X-04 | procurement PR-note-12, architect, planner 5.7 | $0 customer-side service/switchgear → $100K / $140K / $180K | omission | +$150K | Electrical load letter; owned line |
+| A-01 | architect §2.1 | $300/sf shell $1.2M vs my $1.7M incl. FF&E | scope, not rate — partial concession | ~$0 after X-01 | Resolved at $1.2M shell + X-01; fix Buildermuse citation |
+| A-02 | architect §2.2, procurement §2.5 | $1.08M vs my $1.0M (agreed); trench/pit/floors uncarried at EXP | omission at EXP | +$100K | Architect adds floor/trench line |
+| PR-05 / P-01 | procurement §4.1, planner §4 | net +3-7% → 2-4% with CM; G.S. 87-1 "solely for occupancy" exemption undercut by EPC/OC + Tesla lease; SOP 50 10 8 two-bid/no-profit/licensed test | unverified claim / financing risk | $60-200K + lender rejection risk | CM-agency or GC at 4-6%; owner-furnished equipment; OPEN until term sheet |
+| P-05 | planner §7 | 0.42-0.78x at $60K/mo (both models) | RESOLVED finding; OPEN revenue case | equity/reserve sizing | Carry R2 $110K/mo with evidence list; concede wash EXP to planner's $1.0M/$500K |
+| P-02 | planner 5.1 | my $240K → planner $350K (adds debenture-funding bridge); ~$420K on Case C / 20 mo | concession | +$110-180K | Resolved on planner's structure, recomputed |
+| P-03 | planner 5.8-5.10 | agree within 15%; concede first-fill 28-32K gal; add operating float | minor | +$75-100K | Add float; otherwise resolved |
+| PR-03 | procurement §1.1 vs architect item 4 | 64K gal → 57K gal, 4 tanks | arbitration | -$20-40K | 4 tanks/57K per procurement best-value |
+| A-03 | architect §2.6 | my blended $250K withdrawn → surface $130K / underground $380K | concession (my blend was a convention defect) | -$120K vs my EXP | Resolved at architect's two options |
+| X-05 | all | Duke public-DCFC credit unverified by all | consistency | $0-30K | Carry gross cost; credit $0 until Duke letter |
+| X-08 | all | lender-rejection checklist (8 items) | financing | — | Lead lists in plan §6 |
+| X-09 | all | concessions: $498/tank fee; planner's tax rates; planner's land; procurement's 30C/VW/NEVI findings; 40 CFR 280.93 FR note; seller-note 504 treatment OPEN; Raleigh capacity fee OPEN | concessions / opens | small | Recorded |
+
+Net effect on my independent range after concessions (A-03 -$120K, P-03 -$30K) and additions (P-02 +$110-180K): EXPECTED all-in ex-land stays ~$9.5M; LOW $6.7M; HIGH $13.9M unchanged.
